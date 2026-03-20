@@ -1,21 +1,21 @@
 # 💫 About Me:
 🔭 I’m currently working on  
-Building full-stack web applications and experimenting with startup ideas like **CloutCard**.
+Building full-stack web applications and experimenting with startup ideas for Hungarian Startup. I enjoy taking ideas from concept to implementation and constantly improving them.
 
 👨‍💻 I enjoy building  
-Creative web apps, developer tools, and experimental side projects.
+Creative and interactive web apps, developer tools, and side projects that push me to learn something new. I like working on projects that combine good design with solid backend logic, and I’m always curious about how things work under the hood.
 
 🤝 I’m looking for help with  
-Scaling web applications, system design, and backend architecture.
+Scaling applications, system design, and writing cleaner, more efficient backend systems. I’m especially interested in learning how real-world systems are built and optimized for performance and reliability.
 
 🌱 I’m currently learning  
-Java, Spring Boot, full-stack development, and networking.
+Java, Spring Boot, and full-stack development, while also building a strong foundation in networking concepts. Alongside this, I’m exploring best practices in backend architecture and deployment.
 
 💬 Ask me about  
-Java, web development, startup ideas, and developer portfolio projects.
+Java development, building full-stack projects, startup ideas, or how to get started with developer portfolios. I’m always open to sharing what I’ve learned and discussing new ideas.
 
 ⚡ Fun fact  
-I love turning random ideas into real projects and testing new tech.
+I enjoy turning simple or random ideas into actual working projects and experimenting with new technologies just to see what I can build.
 
 ---
 
