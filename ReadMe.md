@@ -38,11 +38,32 @@ I enjoy turning simple or random ideas into actual working projects and experime
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omg775&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Heatmap Game](game.gif)
 
-![](https://nirzak-streak-stats.vercel.app/?user=omg775&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omg775&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=153525225" target="_blank" style="" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=153525225&image_size=auto&color_scheme=dark" width="50%" height="auto">
+    <img alt="Dashboard stats of @Bajahaw" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=153525225&image_size=auto&color_scheme=light" width="50%" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=153525225&activity_type=all" target="_blank" style="" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=153525225&activity_type=all&image_size=auto&color_scheme=dark" width="49%" height="auto">
+    <img alt="@Bajahaw's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=153525225&activity_type=all&image_size=auto&color_scheme=light" width="49%" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+
+</div>
 
 ---
 
